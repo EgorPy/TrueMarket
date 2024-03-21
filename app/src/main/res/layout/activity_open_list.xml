@@ -370,6 +370,18 @@
         app:layout_constraintVertical_bias="1.0">
 
         <Button
+            android:id="@+id/buyButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:layout_weight="1"
+            android:backgroundTint="#2B9C1E"
+            android:text="Купить"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+
+        <Button
             android:id="@+id/favButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
