@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="round">
+        <item name="cornerSize">10dp</item>
+    </style>
+
+    <style name="half_round">
+        <item name="cornerSizeTopRight">10dp</item>
+        <item name="cornerSizeBottomRight">10dp</item>
+    </style>
+
+    <style name="round_top_left">
+        <item name="cornerSizeTopLeft">10dp</item>
+    </style>
+
+    <style name="round_top_right">
+        <item name="cornerSizeTopRight">10dp</item>
+    </style>
+
+    <style name="round_bottom_left">
+        <item name="cornerSizeBottomLeft">10dp</item>
+    </style>
+
+    <style name="round_bottom_right">
+        <item name="cornerSizeBottomRight">10dp</item>
+    </style>
+</resources>
